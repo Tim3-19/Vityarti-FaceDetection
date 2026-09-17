@@ -169,4 +169,4 @@ generated for this project (also included in the project report).
 ## 9. Author / Course
 
 Submitted as the flipped-course evaluation project for **Computer
-Vision**.
+Vision by Samay Dutta 24BAI10027**.
